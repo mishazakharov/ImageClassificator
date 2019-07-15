@@ -18,7 +18,7 @@ The main goal of the project is to get some expirience in building classifier an
     
 2. [run.py](https://github.com/mishazakharov/ImageClassificator/blob/master/run.py)
     * This file runs the classification on the selected image. It should be run to correctly classify 
-      the image.*WARNINGS are hided!*
+      the image.*WARNINGS are hidden!*
       
 3. [classi.py](https://github.com/mishazakharov/ImageClassificator/blob/master/classi.py)
     * Here is written the code for the convolutional neural network architecture under the name Alex-Net. 
