@@ -43,7 +43,8 @@ git clone https://github.com/mishazakharov/ImageClassificator
 cd ImageClassificator
 python3 run.py
 ```
-In case you want to train Alex-Net(1)
+In case you want to train Alex-Net yourself:
+
 ```
 python3 classi.py
 ```
