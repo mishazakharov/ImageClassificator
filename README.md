@@ -24,6 +24,8 @@ The main goal of the project is to get some expirience in building classifier an
     * Here is written the code for the convolutional neural network architecture under the name Alex-Net. 
       I do not have the necessary computing power to complete the training of this network, but 
       if you have one, you can try teaching it yourself!
+    * Quick review on Alex-Net architecture:
+      ![image](https://www.learnopencv.com/wp-content/uploads/2018/05/AlexNet-1.png)
       
 4. [neural_net](https://github.com/mishazakharov/ImageClassificator/tree/master/neural_net)
     * This folder contains poorly trained ALEX-NET neural network.
