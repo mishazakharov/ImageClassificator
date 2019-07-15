@@ -15,6 +15,8 @@ The main goal of the project is to get some expirience in building classifier an
     * This file contains the main code for image preprocessing and neural network construction-learning. 
     You can train a neural network on your own or use an existing version, the accuracy of which exceeds 91%!
     * I used feature extraction (transfer learning) from MobileNetV2!
+    * That's how block of MobileNetV2 looks like:
+    ![image](https://machinethink.net/images/mobilenet-v2/ResidualBlock@2x.png)
     
 2. [run.py](https://github.com/mishazakharov/ImageClassificator/blob/master/run.py)
     * This file runs the classification on the selected image. It should be run to correctly classify 
