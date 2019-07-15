@@ -36,5 +36,18 @@ The main goal of the project is to get some expirience in building classifier an
     * This folder contains training and test images, that this neural network was trained and tested on!
     
     
+<h2>Installation</h2>
+
+```
+git clone https://github.com/mishazakharov/ImageClassificator
+cd ImageClassificator
+python3 run.py
+```
+In case you want to train Alex-Net(1)
+```
+python3 classi.py
+```
+
+    
     
 
