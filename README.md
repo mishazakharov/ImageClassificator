@@ -48,6 +48,17 @@ In case you want to train Alex-Net yourself:
 ```
 python3 classi.py
 ```
+In case you want to retrain dense layers in Mobile-NetV2 yourself:
+
+```
+python3 classifier.py
+```
+
+<h2>Contact</h2>
+
+If you want to work on this together or just feeling social, feel free to contact me [here](https://vk.com/rtyyu).
+And I am also available at this(misha_zakharov96@mail.ru) and this(vorahkazmisha@gmail.com) email addresses!
+**Feel free** to give me any advice. :+1:
 
     
     
